@@ -8,7 +8,7 @@
     "adminOnly": false,
     "keyAdminOnly": "",
     "commandDisabled": [
-        "",
+        "61550500558708",
         "",
         "",
         "",
@@ -31,34 +31,34 @@
         ""
     ],
     "UNSENTVIP": [
-        "100038374310301",
-        "100089747292304",
-        "100057959767370",
+        "61550500558708",
         "",
         "",
-        "100086141860679",
-        "100086141860679"
+        "",
+        "",
+        "",
+        ""
     ],
     "GOD": [
-        "100040426712109",
-        "100089747292304",
-        "100057959767370"
+        "61550500558708",
+        "",
+        ""
     ],
     "ADMINBOT": [
-        "100040426712109",
+        "61550500558708",
         "",
         "",
         "",
         "",
         "",
         "",
-        "100064584243077",
-        "100093221656574"
+        "",
+        ""
     ],
     "OWNER": "ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒",
-    "AGE": "21",
+    "AGE": "19",
     "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301",
+    "FACEBOOK": "https:https://www.facebook.com/profile.php?id=61550500558708",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
